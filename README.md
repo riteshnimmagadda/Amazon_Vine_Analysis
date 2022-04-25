@@ -30,3 +30,7 @@ In this project, analyzing Amazon reviews written by members of the paid Amazon 
 
 
 ## Summary
+From the above example, I dont think there is any bias on the reivews and below are the points that support my analogy:
+
+* The percentage of paid reviews to the total reviews is very less, which is less than 3%. Hence the bias in customer reviewing is negligible.
+* The total volumes of the 5 star reviews both paid and unpaid are just 2.18%, so the chance of biased reviews are very less
